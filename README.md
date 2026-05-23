@@ -1,2 +1,2 @@
 
-<img src="https://rulez-media-api.rulez.workers.dev/randomBannerBackgroundRedirect" />
+<img src="https://rulez.com/api/backgrounds/random/banner?redirect=true" />
